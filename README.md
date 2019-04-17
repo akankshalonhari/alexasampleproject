@@ -13,4 +13,5 @@ lambda_function.py
 
 This is core Python file that creates the deployment interaction backend for the Alexa skill to execute on it.
 
-You can find the entire documentation for implementation and testing of Alexa Skill in the following document : https://andonline.atlassian.net/wiki/spaces/CSS/pages/627113985/Alexa+voice+service+skill
+You can find the entire documentation for implementation and testing of Alexa Skill in the following document :
+Alexa+voice+service+skill+POC.pdf 
